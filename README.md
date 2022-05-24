@@ -35,7 +35,7 @@
 
 <pre align="center">
  🎮  MatchHaeDuo(<a href="https://github.com/izbean/MatchHaeDuo">매치 해 듀오</a>)
- 롤 듀오, 같이 할 팀원들을 찾는 플랫폼 
+ 롤 듀오, 같이 게임 할 팀원 들을 자동 매칭해 찾아주는 플랫폼
  🖌  MediaSteam(<a href="https://github.com/izbean/Media_steam_server">미디어 스팀</a>)
  일러스트, 영상, 웹툰, 웹소설에 대해 조회수에 따라 구글 애드센스 광고비 정산을 해주는 플랫폼 
  </pre>
